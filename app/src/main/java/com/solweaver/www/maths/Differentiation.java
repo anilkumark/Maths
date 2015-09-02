@@ -28,7 +28,7 @@ public class Differentiation extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.differentiation);
-
+           //some modifications
         Text_Eqn = (TextView) findViewById(R.id.textView2);
         Edit_N = (EditText) findViewById(R.id.editText1);
         Butt_Go = (Button) findViewById(R.id.button1);
